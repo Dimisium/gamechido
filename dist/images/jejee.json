@@ -1,0 +1,367 @@
+{"frames": {
+
+"niñochido_1.png":
+{
+	"frame": {"x":0,"y":0,"w":39,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":70},
+	"sourceSize": {"w":39,"h":70}
+},
+"niñochido_2.png":
+{
+	"frame": {"x":39,"y":0,"w":39,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":70},
+	"sourceSize": {"w":39,"h":70}
+},
+"niñochido_3.png":
+{
+	"frame": {"x":78,"y":0,"w":39,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":71},
+	"sourceSize": {"w":39,"h":71}
+},
+"niñochido_4.png":
+{
+	"frame": {"x":117,"y":0,"w":39,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":70},
+	"sourceSize": {"w":39,"h":70}
+},
+"niñochido_5.png":
+{
+	"frame": {"x":156,"y":0,"w":40,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":68},
+	"sourceSize": {"w":40,"h":68}
+},
+"niñochido_6.png":
+{
+	"frame": {"x":196,"y":0,"w":39,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":68},
+	"sourceSize": {"w":39,"h":68}
+},
+"niñochido_7.png":
+{
+	"frame": {"x":235,"y":0,"w":39,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":70},
+	"sourceSize": {"w":39,"h":70}
+},
+"niñochido_8.png":
+{
+	"frame": {"x":274,"y":0,"w":38,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":71},
+	"sourceSize": {"w":38,"h":71}
+},
+"niñochido_9.png":
+{
+	"frame": {"x":312,"y":0,"w":46,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":71},
+	"sourceSize": {"w":46,"h":71}
+},
+"niñochido_10.png":
+{
+	"frame": {"x":358,"y":0,"w":43,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":70},
+	"sourceSize": {"w":43,"h":70}
+},
+"niñochido_11.png":
+{
+	"frame": {"x":401,"y":0,"w":39,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":71},
+	"sourceSize": {"w":39,"h":71}
+},
+"niñochido_12.png":
+{
+	"frame": {"x":440,"y":0,"w":38,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":70},
+	"sourceSize": {"w":38,"h":70}
+},
+"niñochido_13.png":
+{
+	"frame": {"x":478,"y":0,"w":43,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":71},
+	"sourceSize": {"w":43,"h":71}
+},
+"niñochido_14.png":
+{
+	"frame": {"x":521,"y":0,"w":40,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":72},
+	"sourceSize": {"w":40,"h":72}
+},
+"niñochido_15.png":
+{
+	"frame": {"x":561,"y":0,"w":42,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":71},
+	"sourceSize": {"w":42,"h":71}
+},
+"niñochido_16.png":
+{
+	"frame": {"x":603,"y":0,"w":37,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":71},
+	"sourceSize": {"w":37,"h":71}
+},
+"niñochido_17.png":
+{
+	"frame": {"x":640,"y":0,"w":40,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":72},
+	"sourceSize": {"w":40,"h":72}
+},
+"niñochido_18.png":
+{
+	"frame": {"x":680,"y":0,"w":43,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":70},
+	"sourceSize": {"w":43,"h":70}
+},
+"niñochido_19.png":
+{
+	"frame": {"x":723,"y":0,"w":38,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":68},
+	"sourceSize": {"w":38,"h":68}
+},
+"niñochido_20.png":
+{
+	"frame": {"x":761,"y":0,"w":47,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":70},
+	"sourceSize": {"w":47,"h":70}
+},
+"niñochido_21.png":
+{
+	"frame": {"x":808,"y":0,"w":52,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":67},
+	"sourceSize": {"w":52,"h":67}
+},
+"niñochido_22.png":
+{
+	"frame": {"x":860,"y":0,"w":40,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":68},
+	"sourceSize": {"w":40,"h":68}
+},
+"niñochido_23.png":
+{
+	"frame": {"x":900,"y":0,"w":42,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":70},
+	"sourceSize": {"w":42,"h":70}
+},
+"niñochido_24.png":
+{
+	"frame": {"x":942,"y":0,"w":46,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":68},
+	"sourceSize": {"w":46,"h":68}
+},
+"niñochido_25.png":
+{
+	"frame": {"x":988,"y":0,"w":39,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":69},
+	"sourceSize": {"w":39,"h":69}
+},
+"niñochido_26.png":
+{
+	"frame": {"x":1027,"y":0,"w":41,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":58},
+	"sourceSize": {"w":41,"h":58}
+},
+"niñochido_27.png":
+{
+	"frame": {"x":1068,"y":0,"w":41,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":58},
+	"sourceSize": {"w":41,"h":58}
+},
+"niñochido_28.png":
+{
+	"frame": {"x":1109,"y":0,"w":49,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":69},
+	"sourceSize": {"w":49,"h":69}
+},
+"niñochido_29.png":
+{
+	"frame": {"x":1158,"y":0,"w":45,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":70},
+	"sourceSize": {"w":45,"h":70}
+},
+"niñochido_30.png":
+{
+	"frame": {"x":1203,"y":0,"w":54,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":68},
+	"sourceSize": {"w":54,"h":68}
+},
+"niñochido_31.png":
+{
+	"frame": {"x":1257,"y":0,"w":42,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":65},
+	"sourceSize": {"w":42,"h":65}
+},
+"niñochido_32.png":
+{
+	"frame": {"x":1299,"y":0,"w":41,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":61},
+	"sourceSize": {"w":41,"h":61}
+},
+"niñochido_33.png":
+{
+	"frame": {"x":1340,"y":0,"w":41,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":64},
+	"sourceSize": {"w":41,"h":64}
+},
+"niñochido_34.png":
+{
+	"frame": {"x":1381,"y":0,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+"niñochido_35.png":
+{
+	"frame": {"x":1389,"y":0,"w":40,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":69},
+	"sourceSize": {"w":40,"h":69}
+},
+"niñochido_36.png":
+{
+	"frame": {"x":1429,"y":0,"w":36,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":72},
+	"sourceSize": {"w":36,"h":72}
+},
+"niñochido_37.png":
+{
+	"frame": {"x":1465,"y":0,"w":46,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":63},
+	"sourceSize": {"w":46,"h":63}
+},
+"niñochido_38.png":
+{
+	"frame": {"x":1511,"y":0,"w":47,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":69},
+	"sourceSize": {"w":47,"h":69}
+},
+"niñochido_39.png":
+{
+	"frame": {"x":1558,"y":0,"w":43,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":70},
+	"sourceSize": {"w":43,"h":70}
+},
+"niñochido_40.png":
+{
+	"frame": {"x":1601,"y":0,"w":40,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":67},
+	"sourceSize": {"w":40,"h":67}
+},
+"niñochido_41.png":
+{
+	"frame": {"x":1641,"y":0,"w":39,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":70},
+	"sourceSize": {"w":39,"h":70}
+},
+"niñochido_42.png":
+{
+	"frame": {"x":1680,"y":0,"w":42,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":68},
+	"sourceSize": {"w":42,"h":68}
+},
+"niñochido_43.png":
+{
+	"frame": {"x":1722,"y":0,"w":59,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":55},
+	"sourceSize": {"w":59,"h":55}
+},
+"niñochido_44.png":
+{
+	"frame": {"x":1781,"y":0,"w":50,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":57},
+	"sourceSize": {"w":50,"h":57}
+}},
+"animations": {
+	"niñochido": ["niñochido_01.png","niñochido_02.png","niñochido_03.png","niñochido_04.png","niñochido_05.png","niñochido_06.png","niñochido_07.png","niñochido_08.png","niñochido_09.png","niñochido_10.png","niñochido_11.png","niñochido_12.png","niñochido_13.png","niñochido_14.png","niñochido_15.png","niñochido_16.png","niñochido_17.png","niñochido_18.png","niñochido_19.png","niñochido_20.png","niñochido_21.png","niñochido_22.png","niñochido_23.png","niñochido_24.png","niñochido_25.png","niñochido_26.png","niñochido_27.png","niñochido_28.png","niñochido_29.png","niñochido_30.png","niñochido_31.png","niñochido_32.png","niñochido_33.png","niñochido_34.png","niñochido_35.png","niñochido_36.png","niñochido_37.png","niñochido_38.png","niñochido_39.png","niñochido_40.png","niñochido_41.png","niñochido_42.png","niñochido_43.png","niñochido_44.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "jejee.png",
+	"format": "RGBA8888",
+	"size": {"w":1831,"h":72},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:66019ad1b88fc7eaaf6787126552c86c:2aa6b515f7a9d8f4bc2ec612920f4e8a:38e84cef30ddc7c4d4ce009445d20d9c$"
+}
+}
